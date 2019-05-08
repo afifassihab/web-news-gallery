@@ -1,6 +1,11 @@
 # web-news-gallery
 
-> &#34;just for fun site&#34;
+> &#34;just a fun project - web news gallery&#34;
+* vue
+* vuetify
+* Nuxt
+* Axios (newsapi.org)
+
 
 ## Build Setup
 
