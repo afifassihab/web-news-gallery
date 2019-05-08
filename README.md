@@ -1,6 +1,6 @@
 # web-news-gallery
 
-> &#34;just a news site&#34;
+> &#34;just for fun site&#34;
 
 ## Build Setup
 
